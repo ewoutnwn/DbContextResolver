@@ -1,6 +1,6 @@
-﻿namespace Template
+namespace Template
 {
-	using Template.Data;
+    using Template.Data;
 	
     public interface IDbContextResolver
     {
