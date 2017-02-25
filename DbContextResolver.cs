@@ -2,7 +2,7 @@ namespace Template
 {
     using System.Collections.Generic;
     using System.Data.Entity;
-	using Template.Data;
+    using Template.Data;
 
     public class DbContextResolver : IDbContextResolver
     {
