@@ -1,4 +1,4 @@
-# Multiple DbContexts with multiple DbSets: how to resolve DbSet<T>?
+# Multiple DbContexts with multiple DbSets: how to resolve DbSet&lt;T&gt;?
 With the advent of version 6 of Entity Framework, a great new feature came along: multiple DbContexts. One database can now persist classes 
 separated to any number of DbContexts. This greatly enhances seperation of concerns and suits especially well for larger systems. Even more, if one uses 
 domain driven design, then a DbContext can easily map to a single subdomain. Instead of one big facade-like DbContext, more subdomains map to multiple, targeted DbContexts.
