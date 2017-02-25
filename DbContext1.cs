@@ -1,9 +1,9 @@
-namespace Template.Data
+namespace Template.Subdomain1.Data
 {
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure.Annotations;
-    using Domain.Configuration;
+    using Domain.Subdomain1;
 
     public class DbContext1 : DbContext, IProjectsDbContext
     {
