@@ -1,4 +1,4 @@
-﻿namespace StorageManager.Data
+﻿namespace Template
 {
     using System;
     using System.Linq.Expressions;

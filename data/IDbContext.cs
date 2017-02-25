@@ -1,4 +1,4 @@
-﻿namespace StorageManager.Data
+﻿namespace Template.Data
 {
     using System;
     using System.Data.Entity;

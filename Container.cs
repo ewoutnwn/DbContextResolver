@@ -1,10 +1,12 @@
-namespace Template.Api
+namespace Template
 {
     using System.Reflection;
     using System.Web.Http;
     using Autofac;
     using Autofac.Integration.WebApi;    
     using Template.Data;
+	using Template.Data.Subdomain1;
+	using Template.Data.Subdomain2;
 
     public static class Container
     {

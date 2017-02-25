@@ -1,4 +1,4 @@
-﻿namespace StorageManager.Data.Repositories
+﻿namespace Template.Data
 {
     using System;
     using System.Collections.Generic;
