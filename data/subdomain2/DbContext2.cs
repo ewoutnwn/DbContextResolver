@@ -1,4 +1,4 @@
-namespace Template.Data
+namespace Template.Data.Subdomain2
 {
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity;
