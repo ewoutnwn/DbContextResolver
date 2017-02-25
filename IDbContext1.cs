@@ -1,6 +1,7 @@
 namespace Template.Data.Subdomain1
 {
     using System.Data.Entity;
+    using Domain.Subdomain1
 
     public interface ISubdomain1DbContext : IDbContext
     {
