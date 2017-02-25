@@ -5,8 +5,8 @@ namespace Template
     using Autofac;
     using Autofac.Integration.WebApi;    
     using Template.Data;
-	using Template.Data.Subdomain1;
-	using Template.Data.Subdomain2;
+    using Template.Data.Subdomain1;
+    using Template.Data.Subdomain2;
 
     public static class Container
     {
